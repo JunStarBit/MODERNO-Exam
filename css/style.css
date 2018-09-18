@@ -89,3 +89,108 @@ header a{
 #detail{
 	font-size: 10px;
 }
+
+#sec-works i{
+	color: #fff;
+}
+
+#sec-works{
+	margin: 0px;
+	
+}
+
+#sec-con{
+background-color:#2B2B2B;
+height: 350px;
+color: #FFFFFF;
+}
+
+#sec-con i{
+font-size: 45px;
+padding-top: 50px;
+padding-bottom: 30px;
+color: #35AAFF;
+
+}
+
+#sec-con h2{
+font-weight:300px;
+font-size: 50px;
+text-align: center;
+}
+
+#sec-con h5{
+	text-align: center;
+}
+
+.barrashort{
+	background-color:#35AAFF;
+	width: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 5px;
+}
+
+.none{
+	color: #FFFFFF;
+}
+
+#owlcarousel{
+	background-image: url(../img/bg-testimonials.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	color:#FFFFFF;
+	text-align: center;
+	padding: 20px 0;
+	height: 500px;	
+}
+
+#owlcarousel img{
+	height: 100px;
+	margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+
+footer{
+	background-color: #252525;
+	text-align: center;
+	color: rgba(0,168,188,1.00);
+}
+
+footer i{
+	font-size: 35px;
+	padding-left: 5px;
+	color: rgba(0,168,188,1.00);
+}
+
+footer img{
+	height: 50px;
+	margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+}
+
+#sec-team{
+	text-align: center;
+	
+}
+#sec-team a{
+	padding-top: 24px;
+	color: #FFFFFF;
+	font-size: 50px;
+}
+
+.give{
+	padding: 20px;
+}
+
+#sec-logo{
+	margin-top: 40px;
+	text-align: center
+}
+
+.blanco{
+	color: #FFFFFF
+}
